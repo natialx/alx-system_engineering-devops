@@ -1,1 +1,1 @@
-Excussion permition for all
+Permission for all
