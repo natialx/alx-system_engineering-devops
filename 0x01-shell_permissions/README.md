@@ -1,1 +1,1 @@
-multiple permissions
+Excussion permition for all
