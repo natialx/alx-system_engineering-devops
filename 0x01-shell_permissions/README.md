@@ -1,1 +1,1 @@
-permission mode for -rwxr-x-wx 1
+mirror permissions
