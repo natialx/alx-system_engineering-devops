@@ -1,1 +1,1 @@
-Permission for all
+permission mode for -rwxr-x-wx 1
