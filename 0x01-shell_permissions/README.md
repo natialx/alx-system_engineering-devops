@@ -1,1 +1,1 @@
-permission for all subdirectories
+more directories
