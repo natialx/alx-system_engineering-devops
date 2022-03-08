@@ -1,1 +1,1 @@
-Display confused smilly
+Display the content
