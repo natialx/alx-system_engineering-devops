@@ -1,1 +1,1 @@
-Local Variable 2
+creat nw global variable
